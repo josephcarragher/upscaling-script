@@ -4,4 +4,4 @@ Short batch file with minimal dependencies to automate multi-file upscaling.
 - ffmpeg
 - ffprobe (usually part of an ffmpeg installation)
 - mkvmerge (part of MKVToolNix)
-- Upscaler of choice (Currently Waifu2x or Real-ESRGAN)
+- Upscaler of choice (this can really be any upscaler that works on a per image basis)
